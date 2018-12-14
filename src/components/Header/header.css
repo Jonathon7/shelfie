@@ -1,0 +1,12 @@
+.header-cont {
+  width: 100%;
+  background-color: rgb(150, 25, 25);
+  display: flex;
+  justify-content: space-around;
+}
+
+.header-buttons {
+  display: flex;
+  width: 300px;
+  justify-content: space-between;
+}
